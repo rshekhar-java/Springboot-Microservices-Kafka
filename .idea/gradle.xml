@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-ms-order" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-ms-order" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-ms-pattern" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-ms-pattern" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-ms-reward" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-ms-reward" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-ms-storage" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../Software/Gradle/gradle-7.0" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-ms-storage" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
