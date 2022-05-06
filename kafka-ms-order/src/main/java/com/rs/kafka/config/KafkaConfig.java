@@ -10,6 +10,7 @@ import org.springframework.kafka.config.*;
 @Configuration
 public class KafkaConfig {
 
+/*
     @Bean
     public NewTopic topicOrder(){
         return TopicBuilder.name("t-commodity-order").partitions(2).replicas(1).build();
@@ -19,5 +20,6 @@ public class KafkaConfig {
     public NewTopic topicOrderReply(){
         return TopicBuilder.name("t-commodity-order-reply").partitions(2).replicas(1).build();
     }
+*/
 
 }
